@@ -3,4 +3,10 @@
 faq.db*
 *.db
 *.db-shm
-*.db-wal
+*.db-wal.env
+models/
+*.db
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
