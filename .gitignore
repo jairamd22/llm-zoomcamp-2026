@@ -10,3 +10,6 @@ models/
 __pycache__/
 *.pyc
 .venv/
+.env
+.venv
+*.duckdb
