@@ -1,0 +1,41 @@
+parcel_id,address,zoning_district,lot_size_sqft,lot_width_ft,land_use,flood_zone,historic_overlay,year_built
+RB-2401,4606 Juniper St,SF-2,2800,40,single-family,X,no,1948
+RB-2402,588 Cedar Bend Dr,GR,7000,40,commercial,X,no,1975
+RB-2403,3711 Mesquite Way,LO,32000,75,commercial,X,no,1962
+RB-2404,4652 Riverside Blvd,GR,20000,40,commercial,X,no,1948
+RB-2405,5981 Pecan Grove Rd,GR,7000,75,commercial,X,no,2015
+RB-2406,6301 Cedar Bend Dr,LO,7000,75,commercial,X,no,1975
+RB-2407,3833 Lamar Ln,SF-2,2800,25,single-family,X,no,2004
+RB-2408,6077 Riverside Blvd,MF-2,12000,50,multifamily,X,no,1988
+RB-2409,8851 Juniper St,SF-2,5750,40,single-family,X,yes,1988
+RB-2410,5413 Oakmont Ave,LO,12000,40,commercial,X,no,2004
+RB-2411,3556 Pecan Grove Rd,MF-2,4200,40,multifamily,X,yes,2015
+RB-2412,2387 Juniper St,SF-3,7200,100,single-family,AE,no,2004
+RB-2413,3693 Riverside Blvd,GR,20000,75,commercial,X,no,0
+RB-2414,2721 Bluff View Ct,SF-2,5750,75,single-family,X,yes,2004
+RB-2415,9164 Oakmont Ave,CS,20000,100,commercial,X,no,1996
+RB-2416,7223 Riverside Blvd,SF-2,7200,60,single-family,X,no,1962
+RB-2417,4989 Juniper St,LO,7000,40,commercial,X,no,0
+RB-2418,419 Cedar Bend Dr,MF-3,12000,50,multifamily,X,no,0
+RB-2419,1503 Mesquite Way,MF-1,4200,25,multifamily,AE,no,1962
+RB-2420,4442 Bluff View Ct,CS,12000,40,commercial,AE,no,1988
+RB-2421,7277 Mesquite Way,GR,20000,25,commercial,X,no,1948
+RB-2422,9738 Juniper St,MF-3,2800,75,multifamily,X,no,1948
+RB-2423,1204 Oakmont Ave,SF-1,6500,50,single-family,X,no,1988
+RB-2424,8934 Riverside Blvd,CS,12000,100,commercial,AE,yes,1975
+RB-2425,3219 Cedar Bend Dr,CS,32000,25,commercial,X,no,2004
+RB-2426,987 Cedar Bend Dr,GR,32000,25,commercial,X,no,1948
+RB-2427,3216 Mesquite Way,MF-1,6500,40,multifamily,X,no,1988
+RB-2428,1335 Mesquite Way,CS,12000,75,commercial,X,no,0
+RB-2429,2824 Bluff View Ct,SF-2,6500,60,single-family,X,no,2004
+RB-2430,6309 Oakmont Ave,SF-1,5750,60,single-family,X,yes,1988
+RB-2431,2636 Juniper St,GR,32000,50,commercial,X,no,0
+RB-2432,921 Mesquite Way,MF-3,2800,75,multifamily,AE,no,0
+RB-2433,3144 Cedar Bend Dr,LO,7000,75,commercial,X,no,2004
+RB-2434,9585 Oakmont Ave,SF-2,6500,75,single-family,X,yes,1996
+RB-2435,5247 Juniper St,MF-2,6500,50,multifamily,X,no,1988
+RB-2436,1288 Oakmont Ave,CS,20000,60,commercial,AE,no,1948
+RB-2437,8388 Lamar Ln,LO,12000,40,commercial,X,no,1975
+RB-2438,2684 Mesquite Way,MF-3,7200,75,multifamily,X,no,1988
+RB-2439,4433 Cedar Bend Dr,SF-2,5750,25,single-family,AE,no,1988
+RB-2440,5717 Juniper St,MF-2,6500,100,multifamily,X,yes,1988
