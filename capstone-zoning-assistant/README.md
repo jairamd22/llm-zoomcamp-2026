@@ -286,3 +286,13 @@ Monitoring".
 Research assistance, not legal advice. The bundled zoning code is
 synthetic. Final determinations on any real project are made by the
 relevant city's planning department.
+
+
+## About this project
+
+I'm a data architect, previously a senior data engineer, working in
+market planning, GIS, and construction — domains where misreading a
+zoning rule has real cost. This project started as a course capstone,
+but the problem is one I actually encounter: turning dense regulatory
+text into a fast, cited answer instead of a manual cross-reference
+exercise.
