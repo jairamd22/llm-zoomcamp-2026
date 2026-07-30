@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==3.1.*"
+gunicorn = "==23.0.*"
+pandas = "==2.2.*"
+scikit-learn = "==1.5.*"
+openai = "==1.*"
+psycopg2-binary = "==2.9.*"
+python-dotenv = "==1.0.*"
+requests = "==2.32.*"
+questionary = "==2.0.*"
+
+[dev-packages]
+jupyter = "*"
+tqdm = "*"
+
+[requires]
+python_version = "3.12"
